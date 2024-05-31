@@ -1,11 +1,5 @@
-# test
+# data analysis
 
-## 레포지토리 이름 바꿀 때
+## 상가정보
 
-### 로컬
-
-    # 현재 레포 위치 보기
-    git remote -v
-
-    # 위치 업데이트
-    git remote set-url origin {바뀐 링크}
+data : 소상공인시장진흥공단_상가(상권)정보_20240331

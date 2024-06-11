@@ -36,3 +36,6 @@
 
     영화 top10 순위 'https://www.netflix.com/tudum/top10/south-korea?week=2024-06-02'
 
+네이버
+
+    https://entertain.naver.com/ranking/five
